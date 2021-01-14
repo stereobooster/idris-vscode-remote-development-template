@@ -11,11 +11,6 @@ You can check that first link for the full details of how to get set up to use V
    - F1 and "Remote-Containers: Open Folder in Container..." the cloned repo.
 5. In VS Code, open a New Terminal from the Terminal menu.
 
-## TODO
-
-- https://github.com/meraymond2/idris-vscode supports idris2
-- https://github.com/zjhmale/vscode-idris needs `cabal install idringen`
-- https://github.com/mmhelloworld/docker-idris v1 Images
 ## Resources
 
 - https://github.com/joaomilho/awesome-idris
